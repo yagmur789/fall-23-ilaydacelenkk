@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page 
 
-You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## How to add Links of files to Your Github Repository:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check [my repository](https://github.com/BU-IE-423/fall-23-ilaydacelenkk) to see the folder names and the uploaded files. Click index.md file, "[Raw](https://raw.githubusercontent.com/BU-IE-423/fall-23-ilaydacelenkk/main/index.md)" button will lead you to the script for this page. 
 
-### Markdown
+Please check the links by clicking on them. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Correct linking of .html and .pdf files:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* [Correct Example 1](https://bu-ie-423.github.io/fall-23-ilaydacelenkk/IE423_Fall23_Syllabus.pdf): The .pdf file is in the same location with your index file.
+* [Correct Example 2](https://bu-ie-423.github.io/fall-23-ilaydacelenkk/files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): The .html file is in a folder called files and this folder is in the same location with your index file.
 
-- Bulleted
-- List
+* [Correct Example 3](IE423_Fall23_Syllabus.pdf): You can use the path and the file name only.
 
-1. Numbered
-2. List
+* [Correct Example 4](files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): You can use the path and the file name only.
 
-**Bold** and _Italic_ and `Code` text
+* [Wrong Example](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/blob/main/IE423_Fall23_Syllabus.pdf): Do not provide links with "blob" or "main". Be careful with this issue while linking your Homework Assignments.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Example scripts and .html files
+* [R Markdown Example HTML in Rstudio](files/R_Markdown_Example_in_RStudio.html): The .pdf file is in a folder called files.
+* [Python Example HTML in Rstudio](files/python_example_in_Jupyter_Notebook.html): The .pdf file is in a folder called files.
+* [R Markdown Example Script](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/blob/main/files/R_Markdown_Example_in_RStudio.Rmd): .Rmd script is in a folder called files.
+* [Python Example Script](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/blob/main/files/python_example_in_Jupyter_Notebook.ipynb): .ipynb script is in a folder called files.
 
-### Jekyll Themes
+You don't need to link your source codes unless asked. Your code should be visible in your .html files already. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BU-IE-582/fall-23-ilaydacelenkk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Example 2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[link to my journal](https://https://bu-ie-423.github.io/fall-23-ilaydacelenkk/): This is the link you need to provide in the Google Forms.
+
+
+
