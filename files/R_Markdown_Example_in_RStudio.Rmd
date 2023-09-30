@@ -1,0 +1,77 @@
+---
+title: "R Markdown Example"
+author: "İlayda Çelenk"
+date: "30/09/2023"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Part 1
+
+# Big Section Headers  
+## Small Section Headers  
+### Smaller Section Headers  
+**Bold**  
+_Italic_  
+line break: use an empty line or two spaces after the sentence.
+
+itemization:
+
++ trial 1  
++ trial 2
+
+
+## R Markdown
+
+You can add code chunks and write your R codes in them:
+
+```{r}
+x <- 3
+x = 2
+x
+```
+
+
+```{r}
+x=c(1,2,3,4)
+print(x)
+```
+
+eval=FALSE: do not run code chunk, but it is visible.
+
+```{r,eval=FALSE}
+a<-3
+a
+```
+
+warning=FALSE: warning messages do not appear.
+
+```{r,warning=FALSE}
+
+```
+
+echo=FALSE:  do run code chunk, but it is not visible.
+
+```{r,echo=TRUE}
+
+```
+
+You can combine those parameters.
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+## Knit to HTML
+
+You can provide this work in html or pdf by clicking on knit to HTML of PDF buttons on RStudio.
