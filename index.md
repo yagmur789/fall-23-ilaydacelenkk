@@ -28,9 +28,8 @@ Please check the links by clicking on them.
 You don't need to link your source codes unless asked. Your code should be visible in your .html files already. 
 
 
-### Example 2
 
-[link to my journal](https://https://bu-ie-423.github.io/fall-23-ilaydacelenkk/): This is the link you need to provide in the Google Forms.
+[link to my journal](https://bu-ie-423.github.io/fall-23-ilaydacelenkk/): This is the link you need to provide in the Google Forms.
 
 
 
