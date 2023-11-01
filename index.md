@@ -21,7 +21,7 @@ Please check the links by clicking on them.
 
 ### Example scripts and .html files
 * [R Markdown Example HTML in Rstudio](files/R_Markdown_Example_in_RStudio.html): The .pdf file is in a folder called files.
-* [Python Example HTML in Rstudio](files/python_example_in_Jupyter_Notebook.html): The .pdf file is in a folder called files.
+* [Jupyter Notebook Example HTML](files/python_example_in_Jupyter_Notebook.html): The .pdf file is in a folder called files.
 * [R Markdown Example Script](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/blob/main/files/R_Markdown_Example_in_RStudio.Rmd): .Rmd script is in a folder called files.
 * [Python Example Script](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/blob/main/files/python_example_in_Jupyter_Notebook.ipynb): .ipynb script is in a folder called files.
 
