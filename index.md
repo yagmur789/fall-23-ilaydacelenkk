@@ -1,5 +1,7 @@
 ## Welcome to My GitHub Page 
-
+* Check [my repository](https://github.com/BU-IE-423/fall-23-yagmur789) to see the ipynb file and HTML file for Project Part 1. Click [here](data_prep_and_plots _final (1).html)
+to see our HTML file.
+  
 ## How to add Links of files to Your Github Repository:
 
 Check [my repository](https://github.com/BU-IE-423/fall-23-ilaydacelenkk) to see the folder names and the uploaded files. Click index.md file, "[Raw](https://raw.githubusercontent.com/BU-IE-423/fall-23-ilaydacelenkk/main/index.md)" button will lead you to the script for this page. 
